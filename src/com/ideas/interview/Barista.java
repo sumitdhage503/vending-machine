@@ -9,7 +9,7 @@ public class Barista {
 	}
 
 	public CoffeeType servedCoffee() { 
-		return servedCoffee;
+		return servedCoffee; 
 	}
 
 }
