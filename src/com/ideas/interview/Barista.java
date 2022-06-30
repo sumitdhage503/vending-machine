@@ -8,7 +8,7 @@ public class Barista {
 		servedCoffee = coffeeType;
 	}
 
-	public CoffeeType servedCoffee() {
+	public CoffeeType servedCoffee() { 
 		return servedCoffee;
 	}
 
